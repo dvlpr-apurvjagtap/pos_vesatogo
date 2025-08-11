@@ -4,12 +4,7 @@ A modern, offline-first Point of Sale (POS) system built with Flutter for restau
 
 ## 📹 App Demo
 
-<div align="center">
-  <video width="800" controls>
-    <source src="assets/demo_assignment.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+https://user-images.githubusercontent.com/dvlpr-apurvjagtap/pos_vesatogo/tree/main/assets/demo/assignment.mp4
 
 
 
@@ -180,7 +175,7 @@ lib/
 - Optional customer information (can order without customer)
 - Customer editing capabilities
 
-## 🏆 Challenges Faced & Solutions
+## Challenges Faced & Solutions
 
 ### **1. State Management Complexity**
 **Challenge:** Managing complex state across multiple screens with real-time updates.
