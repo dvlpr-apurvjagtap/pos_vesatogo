@@ -4,7 +4,7 @@ A modern, offline-first Point of Sale (POS) system built with Flutter for restau
 
 ## 📹 App Demo
 
-https://user-images.githubusercontent.com/dvlpr-apurvjagtap/pos_vesatogo/tree/main/assets/demo/assignment.mp4
+https://github.com/dvlpr-apurvjagtap/pos_vesatogo/tree/main/assets/demo/assignment.mp4
 
 
 
